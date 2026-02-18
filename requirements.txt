@@ -1,0 +1,6 @@
+pyrogram
+tgcalls
+pytgcalls[ffmpeg]==0.10.2
+flask
+asyncio
+datetime
